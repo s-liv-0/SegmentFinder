@@ -11,8 +11,8 @@
 # 1) In Streamlit Cloud or a local .streamlit/secrets.toml file, set:
 #
 #   [strava]
-#   client_id = "YOUR_CLIENT_ID"
-#   client_secret = "YOUR_CLIENT_SECRET"
+#   client_id = "176991"
+#   client_secret = "373f7720f89b833123ab657ef494bcf79a82c0b1"
 #   redirect_uri = "http://localhost:8501"   # or your deployed Streamlit URL
 #
 # 2) In your Strava app settings, add the same Redirect URI.
